@@ -5,6 +5,16 @@ VisualStudioVersion = 16.0.810.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2", "Aula2\Aula2.csproj", "{BB0F1414-9A34-48F2-AF21-BD70DEE6FD5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia", "Criptografia\Criptografia.csproj", "{F40BE2A5-4907-4145-9744-6137DAC4804F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulacaoTexto", "ManipulacaoTexto\ManipulacaoTexto.csproj", "{41991AA4-8FB2-44A6-ADDD-DB3E1E978508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulacaoMatematica", "ManipulacaoMatematica\ManipulacaoMatematica.csproj", "{B2FE3FF0-44FC-487B-96D9-DBC9EF622FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioCondicionais", "ExercicioCondicionais\ExercicioCondicionais.csproj", "{CCBE3C45-F867-4392-B0EA-E0D2029937DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacosRepeticao", "LacosRepeticao\LacosRepeticao.csproj", "{A05A80BB-1967-45D5-A73D-09B3FD5E0B61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -15,6 +25,26 @@ Global
 		{BB0F1414-9A34-48F2-AF21-BD70DEE6FD5D}.Debug|anycpu.Build.0 = Debug|anycpu
 		{BB0F1414-9A34-48F2-AF21-BD70DEE6FD5D}.Release|anycpu.ActiveCfg = Release|anycpu
 		{BB0F1414-9A34-48F2-AF21-BD70DEE6FD5D}.Release|anycpu.Build.0 = Release|anycpu
+		{F40BE2A5-4907-4145-9744-6137DAC4804F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F40BE2A5-4907-4145-9744-6137DAC4804F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F40BE2A5-4907-4145-9744-6137DAC4804F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F40BE2A5-4907-4145-9744-6137DAC4804F}.Release|anycpu.Build.0 = Release|anycpu
+		{41991AA4-8FB2-44A6-ADDD-DB3E1E978508}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{41991AA4-8FB2-44A6-ADDD-DB3E1E978508}.Debug|anycpu.Build.0 = Debug|anycpu
+		{41991AA4-8FB2-44A6-ADDD-DB3E1E978508}.Release|anycpu.ActiveCfg = Release|anycpu
+		{41991AA4-8FB2-44A6-ADDD-DB3E1E978508}.Release|anycpu.Build.0 = Release|anycpu
+		{B2FE3FF0-44FC-487B-96D9-DBC9EF622FE0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B2FE3FF0-44FC-487B-96D9-DBC9EF622FE0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B2FE3FF0-44FC-487B-96D9-DBC9EF622FE0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B2FE3FF0-44FC-487B-96D9-DBC9EF622FE0}.Release|anycpu.Build.0 = Release|anycpu
+		{CCBE3C45-F867-4392-B0EA-E0D2029937DE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CCBE3C45-F867-4392-B0EA-E0D2029937DE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CCBE3C45-F867-4392-B0EA-E0D2029937DE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CCBE3C45-F867-4392-B0EA-E0D2029937DE}.Release|anycpu.Build.0 = Release|anycpu
+		{A05A80BB-1967-45D5-A73D-09B3FD5E0B61}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A05A80BB-1967-45D5-A73D-09B3FD5E0B61}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A05A80BB-1967-45D5-A73D-09B3FD5E0B61}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A05A80BB-1967-45D5-A73D-09B3FD5E0B61}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
